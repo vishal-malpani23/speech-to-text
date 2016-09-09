@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 /* global $ */
+
+
+
 'use strict';
 
 var display = require('./views/displaymetadata');
